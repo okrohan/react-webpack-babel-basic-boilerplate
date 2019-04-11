@@ -1,7 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import DemoComponent from "./components/demo-component"
 
-function HelloWorlComponent () {
-  return (<div>Hello This is a minimal React BoilerPlate</div>)
-}
-ReactDOM.render(<HelloWorlComponent/>, document.getElementById("container"));
+ReactDOM.render(<DemoComponent/>, document.getElementById("container"));
