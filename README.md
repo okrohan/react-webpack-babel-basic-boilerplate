@@ -1,4 +1,4 @@
-# react-webpack-babel-basic-boilerplate
+# React Basic Boilerplate (webpack4, babel)
 
 A Very Minimalistic React boilerplate with Webpack 4 and Babel,React presets
 
