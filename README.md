@@ -1,4 +1,4 @@
-# React Basic Boilerplate (webpack4, babel)
+# React Qucik Start Basic Boilerplate (webpack4, babel)🚀
 
 A Very Minimalistic React boilerplate with Webpack 4 and Babel,React presets
 
